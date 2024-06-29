@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/ss05_api_client/demo/demo_api_client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss05_api_client/exercise/manager_phone" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss2_ReactJs/demo/my-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss2_ReactJs/exercise/info_student" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss2_ReactJs/exercise/profile_card" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss2_ReactJs/exercise/signin_form" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss3_component_ReactJS/demo/demo-component" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss3_component_ReactJS/exercise/built-alert-component" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss3_component_ReactJS/exercise/calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss3_component_ReactJS/exercise/student-info" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss3_component_ReactJS/paratice/check-user-in_out" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss3_component_ReactJS/paratice/class-component" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss3_component_ReactJS/paratice/component_changer_color" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss3_component_ReactJS/paratice/count-click-in_de" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss3_component_ReactJS/paratice/demo-props" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss3_component_ReactJS/paratice/function-component" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss3_component_ReactJS/paratice/view-alert-hiden" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss4_hooks_ReactJS/demo/demo-hooks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss4_hooks_ReactJS/paratice/hook-use-state" vcs="Git" />
+  </component>
+</project>
